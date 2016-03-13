@@ -1,0 +1,6 @@
+# READ-ME
+wait the code of robot begins to start right now...
+Wait to start up code processing.....
+<if> robot move right up
+moves right up
+the sequence would show right 
